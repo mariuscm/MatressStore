@@ -29,6 +29,7 @@ ul > li  {
 
 .main-featured-products {
   display: flex;
+  justify-content: space-between;
 }
 
 .featured-products {
@@ -40,4 +41,12 @@ span {
 #new {
   position: relative;
   top: -18px;
+}
+.secondary-featured-products {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+}
+button {
+  /* text-align: center; */
 }
