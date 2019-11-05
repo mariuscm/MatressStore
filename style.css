@@ -15,11 +15,11 @@
   margin-right: 10px;
 }
 
-ul > li  {
+ul > li {
   text-decoration: none;
 }
 .main-pic {
-  background-image: url("https://picsum.photos/id/237/200/300?grayscale");
+  background-image: url('https://picsum.photos/id/237/200/300?grayscale');
   background-size: 100%;
   height: 750px;
   color: white;
@@ -49,4 +49,16 @@ span {
 }
 button {
   /* text-align: center; */
+}
+.the-difference {
+  text-align: center;
+  background-color: #051a30;
+  color: #d8dade;
+  padding: 30px 30px;
+}
+.features {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 12px;
 }
