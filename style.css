@@ -1,0 +1,22 @@
+.nav {
+  border: 1px solid blue;
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  align-items: center;
+}
+
+.logo-nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  margin-right: 10px;
+}
+
+ul > li  {
+  text-decoration: none;
+}
+
+
