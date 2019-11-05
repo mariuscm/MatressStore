@@ -26,6 +26,18 @@ ul > li  {
   text-align: center;
   padding-top: 100px;
 }
- h1 {
-  
+
+.main-featured-products {
+  display: flex;
+}
+
+.featured-products {
+  text-align: center;
+}
+span {
+  color: #8ec0e4;
+}
+#new {
+  position: relative;
+  top: -18px;
 }
